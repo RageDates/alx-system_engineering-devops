@@ -1,2 +1,2 @@
 #!/bin/bash
-tree -a $PATH
+echo "tree -a $PATH"
