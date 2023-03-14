@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e {a..n}{a..z}\\n {p..z}{a..z}\\n
+echo -e \\b{a..n}{a..z}\\n \\b{p..z}{a..z}\\n
